@@ -1,0 +1,9 @@
+.MyButtonCss{
+    width: 100px;
+  height: 30px;
+  border-radius: 5px;
+  font-weight: bold;
+  color: white;
+  background-color: red;  
+  border: 1px solid darkred;
+}
